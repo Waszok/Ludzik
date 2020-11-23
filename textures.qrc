@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/tex">
+        <file>arm.jpg</file>
+        <file>armUp.jpg</file>
+        <file>back.jpg</file>
+        <file>bodyUp.jpg</file>
+        <file>face.jpg</file>
+        <file>front.jpg</file>
+        <file>hair.jpg</file>
+        <file>hairLeft.jpg</file>
+        <file>hairRight.jpg</file>
+        <file>legDown.jpg</file>
+        <file>legFront.jpg</file>
+        <file>legThreeSides.jpg</file>
+        <file>legUp.jpg</file>
+        <file>sideBody.jpg</file>
+        <file>skin.jpg</file>
+    </qresource>
+</RCC>
